@@ -1,0 +1,241 @@
+sku_id,category,unit_cost,lead_time_days
+SKU-0001,Office,90.04,10
+SKU-0002,Accessories,26.71,7
+SKU-0003,Personal care,86.66,5
+SKU-0004,Home,128.57,7
+SKU-0005,Office,72.61,5
+SKU-0006,Accessories,104.34,9
+SKU-0007,Personal care,55.48,10
+SKU-0008,Home,60.76,6
+SKU-0009,Office,47.87,6
+SKU-0010,Accessories,138.13,9
+SKU-0011,Personal care,92.01,6
+SKU-0012,Home,54.38,3
+SKU-0013,Office,69.18,3
+SKU-0014,Accessories,119.6,5
+SKU-0015,Personal care,61.82,10
+SKU-0016,Home,77.13,4
+SKU-0017,Office,86.58,10
+SKU-0018,Accessories,24.8,10
+SKU-0019,Personal care,137.61,8
+SKU-0020,Home,45.39,7
+SKU-0021,Office,76.13,10
+SKU-0022,Accessories,143.64,3
+SKU-0023,Personal care,160.25,10
+SKU-0024,Home,107.45,10
+SKU-0025,Office,88.86,6
+SKU-0026,Accessories,28.22,5
+SKU-0027,Personal care,91.26,3
+SKU-0028,Home,113.07,6
+SKU-0029,Office,107.55,8
+SKU-0030,Accessories,80.2,7
+SKU-0031,Personal care,74.63,4
+SKU-0032,Home,41.47,3
+SKU-0033,Office,164.74,5
+SKU-0034,Accessories,111.87,9
+SKU-0035,Personal care,98.76,3
+SKU-0036,Home,99.19,10
+SKU-0037,Office,38.62,8
+SKU-0038,Accessories,79.35,6
+SKU-0039,Personal care,45.68,3
+SKU-0040,Home,16.91,8
+SKU-0041,Office,163.92,4
+SKU-0042,Accessories,160.71,7
+SKU-0043,Personal care,17.15,8
+SKU-0044,Home,143.64,3
+SKU-0045,Office,82.27,6
+SKU-0046,Accessories,142.12,8
+SKU-0047,Personal care,60.84,6
+SKU-0048,Home,93.94,10
+SKU-0049,Office,160.36,5
+SKU-0050,Accessories,151.55,5
+SKU-0051,Personal care,107.47,9
+SKU-0052,Home,57.8,3
+SKU-0053,Office,81.81,7
+SKU-0054,Accessories,10.37,10
+SKU-0055,Personal care,23.52,10
+SKU-0056,Home,126.33,3
+SKU-0057,Office,113.05,9
+SKU-0058,Accessories,32.08,7
+SKU-0059,Personal care,115.28,5
+SKU-0060,Home,136.04,9
+SKU-0061,Office,89.16,4
+SKU-0062,Accessories,174.58,8
+SKU-0063,Personal care,94.7,8
+SKU-0064,Home,7.99,5
+SKU-0065,Office,174.27,5
+SKU-0066,Accessories,14.37,8
+SKU-0067,Personal care,128.8,10
+SKU-0068,Home,126.49,3
+SKU-0069,Office,73.39,3
+SKU-0070,Accessories,106.93,4
+SKU-0071,Personal care,8.98,7
+SKU-0072,Home,60.43,10
+SKU-0073,Office,126.52,8
+SKU-0074,Accessories,140.5,9
+SKU-0075,Personal care,102.46,8
+SKU-0076,Home,47.61,7
+SKU-0077,Office,98.35,10
+SKU-0078,Accessories,128.65,4
+SKU-0079,Personal care,101.18,10
+SKU-0080,Home,107.71,7
+SKU-0081,Office,152.28,8
+SKU-0082,Accessories,80.26,6
+SKU-0083,Personal care,123.55,5
+SKU-0084,Home,41.41,7
+SKU-0085,Office,69.64,3
+SKU-0086,Accessories,71.36,8
+SKU-0087,Personal care,14.96,5
+SKU-0088,Home,137.23,9
+SKU-0089,Office,134.87,6
+SKU-0090,Accessories,73.13,6
+SKU-0091,Personal care,155.12,6
+SKU-0092,Home,41.01,6
+SKU-0093,Office,167.22,3
+SKU-0094,Accessories,169.02,10
+SKU-0095,Personal care,78.76,10
+SKU-0096,Home,155.55,7
+SKU-0097,Office,130.54,3
+SKU-0098,Accessories,57.12,5
+SKU-0099,Personal care,86.04,6
+SKU-0100,Home,29.67,9
+SKU-0101,Office,36.87,10
+SKU-0102,Accessories,87.13,7
+SKU-0103,Personal care,125.96,4
+SKU-0104,Home,95.04,5
+SKU-0105,Office,136.86,5
+SKU-0106,Accessories,90.95,10
+SKU-0107,Personal care,166.7,4
+SKU-0108,Home,166.95,6
+SKU-0109,Office,56.7,10
+SKU-0110,Accessories,137.42,7
+SKU-0111,Personal care,110.29,10
+SKU-0112,Home,51.62,4
+SKU-0113,Office,38.21,5
+SKU-0114,Accessories,89.63,7
+SKU-0115,Personal care,172.87,5
+SKU-0116,Home,84.85,3
+SKU-0117,Office,113.19,6
+SKU-0118,Accessories,152.54,10
+SKU-0119,Personal care,22.0,7
+SKU-0120,Home,145.79,10
+SKU-0121,Office,7.97,7
+SKU-0122,Accessories,29.86,3
+SKU-0123,Personal care,76.37,4
+SKU-0124,Home,128.16,4
+SKU-0125,Office,81.43,10
+SKU-0126,Accessories,135.05,8
+SKU-0127,Personal care,96.46,3
+SKU-0128,Home,60.0,7
+SKU-0129,Office,167.13,9
+SKU-0130,Accessories,141.96,10
+SKU-0131,Personal care,94.33,7
+SKU-0132,Home,14.46,7
+SKU-0133,Office,157.31,9
+SKU-0134,Accessories,46.16,4
+SKU-0135,Personal care,32.6,5
+SKU-0136,Home,32.78,7
+SKU-0137,Office,122.81,10
+SKU-0138,Accessories,124.31,7
+SKU-0139,Personal care,61.86,5
+SKU-0140,Home,21.85,3
+SKU-0141,Office,42.33,8
+SKU-0142,Accessories,74.34,9
+SKU-0143,Personal care,46.31,6
+SKU-0144,Home,60.47,6
+SKU-0145,Office,155.38,4
+SKU-0146,Accessories,78.95,5
+SKU-0147,Personal care,119.16,7
+SKU-0148,Home,131.89,10
+SKU-0149,Office,84.75,5
+SKU-0150,Accessories,54.81,7
+SKU-0151,Personal care,11.28,10
+SKU-0152,Home,39.84,4
+SKU-0153,Office,146.73,6
+SKU-0154,Accessories,64.67,4
+SKU-0155,Personal care,14.75,8
+SKU-0156,Home,107.79,6
+SKU-0157,Office,151.58,3
+SKU-0158,Accessories,87.05,3
+SKU-0159,Personal care,171.48,3
+SKU-0160,Home,33.59,10
+SKU-0161,Office,131.05,10
+SKU-0162,Accessories,32.21,8
+SKU-0163,Personal care,22.94,7
+SKU-0164,Home,147.45,7
+SKU-0165,Office,134.23,6
+SKU-0166,Accessories,114.99,6
+SKU-0167,Personal care,88.22,3
+SKU-0168,Home,4.68,3
+SKU-0169,Office,28.22,3
+SKU-0170,Accessories,88.32,3
+SKU-0171,Personal care,119.48,4
+SKU-0172,Home,73.63,8
+SKU-0173,Office,35.18,6
+SKU-0174,Accessories,80.24,3
+SKU-0175,Personal care,12.96,8
+SKU-0176,Home,167.92,6
+SKU-0177,Office,102.97,3
+SKU-0178,Accessories,59.46,10
+SKU-0179,Personal care,76.89,5
+SKU-0180,Home,52.06,5
+SKU-0181,Office,28.78,5
+SKU-0182,Accessories,167.09,8
+SKU-0183,Personal care,120.03,7
+SKU-0184,Home,154.8,7
+SKU-0185,Office,152.56,5
+SKU-0186,Accessories,116.84,10
+SKU-0187,Personal care,170.37,5
+SKU-0188,Home,137.4,6
+SKU-0189,Office,164.46,4
+SKU-0190,Accessories,28.94,7
+SKU-0191,Personal care,24.83,4
+SKU-0192,Home,74.27,5
+SKU-0193,Office,77.99,5
+SKU-0194,Accessories,40.88,7
+SKU-0195,Personal care,64.23,3
+SKU-0196,Home,88.32,10
+SKU-0197,Office,122.06,5
+SKU-0198,Accessories,5.81,8
+SKU-0199,Personal care,26.07,10
+SKU-0200,Home,53.99,8
+SKU-0201,Office,141.86,6
+SKU-0202,Accessories,6.98,4
+SKU-0203,Personal care,35.65,7
+SKU-0204,Home,99.54,5
+SKU-0205,Office,33.22,4
+SKU-0206,Accessories,78.12,3
+SKU-0207,Personal care,104.06,6
+SKU-0208,Home,45.89,3
+SKU-0209,Office,10.51,9
+SKU-0210,Accessories,95.49,10
+SKU-0211,Personal care,141.17,6
+SKU-0212,Home,155.7,6
+SKU-0213,Office,58.29,5
+SKU-0214,Accessories,69.77,3
+SKU-0215,Personal care,172.18,4
+SKU-0216,Home,118.28,10
+SKU-0217,Office,150.99,9
+SKU-0218,Accessories,117.02,5
+SKU-0219,Personal care,81.48,8
+SKU-0220,Home,141.84,7
+SKU-0221,Office,166.15,4
+SKU-0222,Accessories,29.38,8
+SKU-0223,Personal care,75.81,6
+SKU-0224,Home,24.3,10
+SKU-0225,Office,35.49,7
+SKU-0226,Accessories,41.52,10
+SKU-0227,Personal care,100.71,7
+SKU-0228,Home,42.62,6
+SKU-0229,Office,100.72,3
+SKU-0230,Accessories,152.26,6
+SKU-0231,Personal care,167.31,6
+SKU-0232,Home,161.8,6
+SKU-0233,Office,38.63,3
+SKU-0234,Accessories,174.96,8
+SKU-0235,Personal care,24.26,5
+SKU-0236,Home,113.57,4
+SKU-0237,Office,67.49,6
+SKU-0238,Accessories,53.13,5
+SKU-0239,Personal care,91.52,5
+SKU-0240,Home,99.46,4

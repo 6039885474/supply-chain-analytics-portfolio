@@ -1,0 +1,7 @@
+table,row_number,record_id,reason
+orders,8393,ORD-000001,exact_duplicate
+orders,8394,BAD-ZERO,nonpositive_quantity
+orders,8395,BAD-WAREHOUSE,unknown_dimension_key
+orders,8396,BAD-DATE,invalid_date_or_number
+orders,8397,BAD-SEQUENCE,invalid_event_sequence
+cycle_counts,1346,BAD-NEGATIVE,negative_count_quantity

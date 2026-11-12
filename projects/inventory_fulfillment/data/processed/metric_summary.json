@@ -1,0 +1,18 @@
+{
+  "orders_created": 8391,
+  "eligible_orders": 7982,
+  "on_time_orders": 6543,
+  "cancelled_orders": 218,
+  "open_backlog": 449,
+  "overdue_backlog": 291,
+  "dispatched_orders": 7724,
+  "count_records": 1344,
+  "accurate_count_records": 1199,
+  "absolute_variance_units": 509,
+  "stocked_sku_locations": 720,
+  "stockout_sku_locations": 59,
+  "replenishment_exceptions": 153,
+  "excess_cover_sku_locations": 153,
+  "on_time_dispatch_pct": 81.97,
+  "record_accuracy_pct": 89.21
+}

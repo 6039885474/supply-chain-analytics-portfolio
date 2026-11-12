@@ -1,0 +1,39 @@
+// Import data/processed/weekly_metrics.csv as WeeklyMetrics.
+// Each row is one hub/week and contains additive numerator/denominator components.
+// Ratios are computed after filtering. Never average a percentage column.
+Shipments = SUM(WeeklyMetrics[shipments])
+
+First Attempts = SUM(WeeklyMetrics[first_attempts])
+
+First Attempt Success Rate =
+DIVIDE(SUM(WeeklyMetrics[first_attempt_successes]), [First Attempts])
+
+On Time Eligible = SUM(WeeklyMetrics[on_time_eligible])
+
+On Time Delivery Rate =
+DIVIDE(SUM(WeeklyMetrics[on_time_delivered]), [On Time Eligible])
+
+Due Undelivered = SUM(WeeklyMetrics[matured_undelivered])
+
+Observed RTO Share = DIVIDE(SUM(WeeklyMetrics[rto_shipments]), [Shipments])
+
+Observed Customer Return Share = DIVIDE(SUM(WeeklyMetrics[customer_return_shipments]), [Shipments])
+
+Completed Return Cycle Days =
+DIVIDE(SUM(WeeklyMetrics[return_cycle_days]), SUM(WeeklyMetrics[completed_returns]))
+
+Open Returns = SUM(WeeklyMetrics[open_returns])
+
+Open Returns Over 7 Days = SUM(WeeklyMetrics[open_returns_over_7d])
+
+Return Completion Share =
+DIVIDE(SUM(WeeklyMetrics[completed_returns]), SUM(WeeklyMetrics[completed_returns])+[Open Returns])
+
+Attributed Cost USD = DIVIDE(SUM(WeeklyMetrics[attributed_cost_cents]), 100)
+
+Cost Per Covered Shipment USD =
+DIVIDE([Attributed Cost USD], SUM(WeeklyMetrics[cost_covered_shipments]))
+
+Cost Coverage = DIVIDE(SUM(WeeklyMetrics[cost_covered_shipments]), [Shipments])
+
+Missing First Scans = SUM(WeeklyMetrics[missing_first_scan])

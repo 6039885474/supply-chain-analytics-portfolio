@@ -1,0 +1,49 @@
+{
+  "raw_rows": {
+    "orders": 8396,
+    "cycle_counts": 1345
+  },
+  "accepted_rows": {
+    "orders": 8391,
+    "cycle_counts": 1344
+  },
+  "quarantined_rows": 6,
+  "issues": [
+    {
+      "table": "orders",
+      "row_number": 8393,
+      "record_id": "ORD-000001",
+      "reason": "exact_duplicate"
+    },
+    {
+      "table": "orders",
+      "row_number": 8394,
+      "record_id": "BAD-ZERO",
+      "reason": "nonpositive_quantity"
+    },
+    {
+      "table": "orders",
+      "row_number": 8395,
+      "record_id": "BAD-WAREHOUSE",
+      "reason": "unknown_dimension_key"
+    },
+    {
+      "table": "orders",
+      "row_number": 8396,
+      "record_id": "BAD-DATE",
+      "reason": "invalid_date_or_number"
+    },
+    {
+      "table": "orders",
+      "row_number": 8397,
+      "record_id": "BAD-SEQUENCE",
+      "reason": "invalid_event_sequence"
+    },
+    {
+      "table": "cycle_counts",
+      "row_number": 1346,
+      "record_id": "BAD-NEGATIVE",
+      "reason": "negative_count_quantity"
+    }
+  ]
+}

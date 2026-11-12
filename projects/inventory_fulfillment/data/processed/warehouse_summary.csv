@@ -1,0 +1,4 @@
+warehouse_id,warehouse_name,orders_created,eligible_orders,on_time_orders,cancelled_orders,open_backlog,overdue_backlog,dispatched_orders,count_records,accurate_count_records,absolute_variance_units,stocked_sku_locations,stockout_sku_locations,replenishment_exceptions,excess_cover_sku_locations,on_time_dispatch_pct,record_accuracy_pct
+WH-N,North Fulfillment,2839,2690,2378,83,118,64,2638,448,417,121,240,21,51,46,88.4,93.08
+WH-C,Central Fulfillment,2788,2660,2227,68,136,86,2584,448,399,161,240,22,51,58,83.72,89.06
+WH-S,South Fulfillment,2764,2632,1938,67,195,141,2502,448,383,227,240,16,51,49,73.63,85.49

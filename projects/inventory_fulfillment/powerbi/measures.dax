@@ -1,0 +1,28 @@
+// Import processed CSVs; establish the model in MODEL_GUIDE.md first.
+// Flags are fixed to the documented Feb 26, 2026 as-of instant.
+Eligible Orders = SUM(FactOrders[is_eligible])
+
+On-Time Orders = SUM(FactOrders[is_on_time])
+
+On-Time Dispatch % = DIVIDE([On-Time Orders], [Eligible Orders])
+
+Open Backlog = SUM(FactOrders[is_open])
+
+Overdue Backlog = SUM(FactOrders[is_overdue])
+
+Count Records = COUNTROWS(FactCycleCounts)
+
+Accurate Count Records = SUM(FactCycleCounts[is_accurate])
+
+Inventory Record Accuracy % = DIVIDE([Accurate Count Records], [Count Records])
+
+Absolute Variance Units = SUM(FactCycleCounts[absolute_variance_units])
+
+Replenishment Exceptions =
+CALCULATE(COUNTROWS(FactStock), FactStock[exception] IN {"Stockout", "Below reorder point"})
+
+Stockout SKU Locations =
+CALCULATE(COUNTROWS(FactStock), FactStock[exception] = "Stockout")
+
+// This is requested demand value at synthetic unit cost, not revenue.
+Requested Demand Value = SUM(FactStock[demand_value])

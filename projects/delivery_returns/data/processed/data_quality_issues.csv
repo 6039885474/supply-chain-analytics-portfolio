@@ -1,0 +1,19 @@
+issue,record_id,shipment_id,rows_affected,action
+exact_duplicate_attempt,S000026-A1,S000026,1,Keep one identical row
+exact_duplicate_attempt,S000026-A2,S000026,1,Keep one identical row
+exact_duplicate_attempt,S000027-A1,S000027,1,Keep one identical row
+exact_duplicate_attempt,S000028-A1,S000028,1,Keep one identical row
+exact_duplicate_attempt,S000029-A1,S000029,1,Keep one identical row
+exact_duplicate_attempt,S000030-A1,S000030,1,Keep one identical row
+exact_duplicate_attempt,S000031-A1,S000031,1,Keep one identical row
+exact_duplicate_attempt,S000032-A1,S000032,1,Keep one identical row
+exact_duplicate_attempt,S000033-A1,S000033,1,Keep one identical row
+exact_duplicate_attempt,S000033-A2,S000033,1,Keep one identical row
+exact_duplicate_attempt,S000034-A1,S000034,1,Keep one identical row
+exact_duplicate_attempt,S000035-A1,S000035,1,Keep one identical row
+exact_duplicate_attempt,S000036-A1,S000036,1,Keep one identical row
+exact_duplicate_attempt,S000037-A1,S000037,1,Keep one identical row
+exact_duplicate_attempt,S000038-A1,S000038,1,Keep one identical row
+conflicting_attempt_id,S000061-A1,S000061,2,Quarantine every row for this ID
+conflicting_attempt_id,S000062-A1,S000062,2,Quarantine every row for this ID
+conflicting_attempt_id,S000063-A1,S000063,2,Quarantine every row for this ID
